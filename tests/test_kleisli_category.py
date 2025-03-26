@@ -1,4 +1,4 @@
-from kleisli_category import compose, safe_reciprocal, safe_sqrt
+from notes.kleisli_category import compose, safe_reciprocal, safe_sqrt
 
 
 def test_compose():
