@@ -1,5 +1,6 @@
-from typing import Callable, TypeVar
+from collections.abc import Callable
 from dataclasses import dataclass
+from typing import TypeVar
 
 
 @dataclass
